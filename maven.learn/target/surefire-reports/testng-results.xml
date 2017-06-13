@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="16" started-at="2017-06-13T15:55:36Z" finished-at="2017-06-13T15:55:36Z">
+  <suite name="Suite1" duration-ms="16" started-at="2017-06-13T16:16:21Z" finished-at="2017-06-13T16:16:21Z">
     <groups>
     </groups>
-    <test name="Nopackage" duration-ms="16" started-at="2017-06-13T15:55:36Z" finished-at="2017-06-13T15:55:36Z">
+    <test name="Nopackage" duration-ms="16" started-at="2017-06-13T16:16:21Z" finished-at="2017-06-13T16:16:21Z">
       <class name="eleks.AppTest">
-        <test-method status="PASS" signature="testDivision()[pri:0, instance:eleks.AppTest@2ff4f00f]" name="testDivision" duration-ms="16" started-at="2017-06-13T18:55:36Z" finished-at="2017-06-13T18:55:36Z">
+        <test-method status="PASS" signature="testDivision()[pri:0, instance:eleks.AppTest@35f983a6]" name="testDivision" duration-ms="16" started-at="2017-06-13T19:16:21Z" finished-at="2017-06-13T19:16:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDivision -->
-        <test-method status="PASS" signature="testMultiplication()[pri:0, instance:eleks.AppTest@2ff4f00f]" name="testMultiplication" duration-ms="0" started-at="2017-06-13T18:55:36Z" finished-at="2017-06-13T18:55:36Z">
+        <test-method status="PASS" signature="testMultiplication()[pri:0, instance:eleks.AppTest@35f983a6]" name="testMultiplication" duration-ms="0" started-at="2017-06-13T19:16:21Z" finished-at="2017-06-13T19:16:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMultiplication -->
