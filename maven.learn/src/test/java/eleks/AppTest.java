@@ -11,6 +11,10 @@ public class AppTest
         Assert.assertEquals(2, 10 / 5);
     }
 
+    @Test
+    public void testMultiplication() {
+        Assert.assertEquals(10, 5*2);
+    }
 
 
 }

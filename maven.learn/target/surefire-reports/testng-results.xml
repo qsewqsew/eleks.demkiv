@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="16" started-at="2017-06-13T15:38:30Z" finished-at="2017-06-13T15:38:30Z">
+  <suite name="Suite1" duration-ms="16" started-at="2017-06-13T15:55:36Z" finished-at="2017-06-13T15:55:36Z">
     <groups>
     </groups>
-    <test name="Nopackage" duration-ms="16" started-at="2017-06-13T15:38:30Z" finished-at="2017-06-13T15:38:30Z">
+    <test name="Nopackage" duration-ms="16" started-at="2017-06-13T15:55:36Z" finished-at="2017-06-13T15:55:36Z">
       <class name="eleks.AppTest">
-        <test-method status="PASS" signature="testDivision()[pri:0, instance:eleks.AppTest@2ff4f00f]" name="testDivision" duration-ms="0" started-at="2017-06-13T18:38:30Z" finished-at="2017-06-13T18:38:30Z">
+        <test-method status="PASS" signature="testDivision()[pri:0, instance:eleks.AppTest@2ff4f00f]" name="testDivision" duration-ms="16" started-at="2017-06-13T18:55:36Z" finished-at="2017-06-13T18:55:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDivision -->
+        <test-method status="PASS" signature="testMultiplication()[pri:0, instance:eleks.AppTest@2ff4f00f]" name="testMultiplication" duration-ms="0" started-at="2017-06-13T18:55:36Z" finished-at="2017-06-13T18:55:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiplication -->
       </class> <!-- eleks.AppTest -->
     </test> <!-- Nopackage -->
   </suite> <!-- Suite1 -->
